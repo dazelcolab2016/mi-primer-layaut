@@ -25,11 +25,32 @@ h1{
     height: 35%;
 }
 
-.etiqueta{
+.etiqueta1{
     background-color: dimgrey;
     width: 80%;
     height: 40px;
     margin: 20px;
+    color: aliceblue;
+    text-emphasis: center;
+    margin-top: 20px;
+}
+.etiqueta2{
+    background-color: dimgrey;
+    width: 60%;
+    height: 40px;
+    margin: 20px;
+    color: aliceblue;
+    text-emphasis: center;
+    margin-top: 20px;
+}
+.etiqueta3{
+    background-color: dimgrey;
+    width: 40%;
+    height: 40px;
+    margin: 20px;
+    color: aliceblue;
+    text-emphasis: center;
+    margin-top: 20px;
 }
 
 /* -----------------Nuestras Coders */
