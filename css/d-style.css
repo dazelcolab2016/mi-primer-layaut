@@ -32,7 +32,7 @@ h1{
     margin: 20px;
     color: aliceblue;
     text-emphasis: center;
-    margin-top: 20px;
+    padding-top: 20px;
 }
 .etiqueta2{
     background-color: dimgrey;
@@ -41,7 +41,7 @@ h1{
     margin: 20px;
     color: aliceblue;
     text-emphasis: center;
-    margin-top: 20px;
+    padding-top: 20px;
 }
 .etiqueta3{
     background-color: dimgrey;
@@ -50,7 +50,7 @@ h1{
     margin: 20px;
     color: aliceblue;
     text-emphasis: center;
-    margin-top: 20px;
+    padding-top: 20px;    
 }
 
 /* -----------------Nuestras Coders */
